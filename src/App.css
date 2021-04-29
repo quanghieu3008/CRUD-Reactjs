@@ -1,0 +1,125 @@
+.rrr{
+  width: 40px;
+  height: 40px;
+}
+/* tr{
+  border: 2px solid brown
+}
+.sss{
+  border: 0.5px solid brown;
+  border-radius: 3px
+}
+.www{
+  border: 2px solid springgreen;
+  }
+  .www:hover{
+    border: 11px solid aqua;
+    background: azure;
+    font-size: 15px
+  }
+.wwww{
+  border: 0px;
+  background: cadetblue
+  
+}
+.aaa{
+  border-left:2px solid rgb(196, 138, 138)
+}
+.sss:hover{
+  background: chartreuse
+} */
+
+
+
+
+
+ /* tr{
+  border: 2px solid tomato;
+  width: 40px;
+  height: 30px;
+
+}
+th{
+  border: 2px solid tomato;
+  width: 300px;
+  height: 60px;
+  text-align: center;
+}
+td{
+  border: 2px solid tomato;
+  width:300px;
+  height: 60px;
+  text-align: center;
+} */
+/* .www{
+  width: 100%;
+  height: 100%;
+}  */
+/* .color2{
+  color: aqua;
+  height: 30px;
+  font-size: medium;
+
+}
+.color3{
+  color: blue;
+  height: 30px;
+  font-size: medium;
+}
+.color4{
+  color: brown;
+  height: 30px;
+  font-size: medium;
+}
+.color5{
+  color: chartreuse;
+  height: 30px;
+  font-size: medium;
+} */
+/* .App{
+  position: relative;
+} */
+.APPP{
+  position: relative;
+}
+.manhinh{
+  position: absolute;
+  opacity: 0.5;
+  width: 100%;
+  height: 100%;
+}
+.ssss{
+position: absolute;
+
+}
+.khung1{
+  border: 2px solid steelblue;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 20%;
+  
+
+}
+.ngang{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+.exit{
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+  border-top-left-radius: 40%;
+  border-top-right-radius:40%;
+  
+}
+/* body{
+   margin: 0;
+} */
+.imgg{
+  width: 250px;
+  height: 100px;
+}
